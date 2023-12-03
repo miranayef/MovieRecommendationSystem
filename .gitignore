@@ -1,0 +1,6 @@
+# Ignore the "artifacts" folder
+artifacts/
+
+# Ignore the ".ipynb_checkpoints" folder
+.ipynb_checkpoints/
+
